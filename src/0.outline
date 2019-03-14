@@ -1,0 +1,29 @@
+1. Reactive programming
+    Reactive programming is programming with asynchronous data streams.
+
+   - Examples:
+    - user actions: clicks, scroll, keypresses
+    - HTTP requests polling, Web sockets
+    - sensor data
+    - twitter
+
+2. Observables
+
+3. Operators
+    - map
+    - scan
+    - distinctUntilChanged
+    - debounce
+    - retry
+    - catch
+3. Examples
+
+4. Angular
+  -- event emitter
+  -- HTTP requests
+  -- Router
+  -- Forms
+
+5. React
+
+6. Further Reading
